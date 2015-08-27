@@ -10,6 +10,7 @@
 		BA9C72611B8D8E4500936563 /* MutilsPageControllers.m in Sources */ = {isa = PBXBuildFile; fileRef = BA9C72601B8D8E4500936563 /* MutilsPageControllers.m */; };
 		BA9C72621B8D8E4500936563 /* MutilsPageControllers.m in Sources */ = {isa = PBXBuildFile; fileRef = BA9C72601B8D8E4500936563 /* MutilsPageControllers.m */; };
 		BA9C72631B8D8E4500936563 /* MutilsPageControllers.m in Sources */ = {isa = PBXBuildFile; fileRef = BA9C72601B8D8E4500936563 /* MutilsPageControllers.m */; };
+		BA9C72661B8DD98100936563 /* TempViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BA9C72651B8DD98100936563 /* TempViewController.m */; };
 		BAB124AC1B8D5FF600806A86 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BAB124AB1B8D5FF600806A86 /* main.m */; };
 		BAB124AF1B8D5FF600806A86 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BAB124AE1B8D5FF600806A86 /* AppDelegate.m */; };
 		BAB124B21B8D5FF600806A86 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BAB124B11B8D5FF600806A86 /* ViewController.m */; };
@@ -41,6 +42,8 @@
 /* Begin PBXFileReference section */
 		BA9C725F1B8D8E4500936563 /* MutilsPageControllers.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MutilsPageControllers.h; sourceTree = "<group>"; };
 		BA9C72601B8D8E4500936563 /* MutilsPageControllers.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MutilsPageControllers.m; sourceTree = "<group>"; };
+		BA9C72641B8DD98100936563 /* TempViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TempViewController.h; sourceTree = "<group>"; };
+		BA9C72651B8DD98100936563 /* TempViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TempViewController.m; sourceTree = "<group>"; };
 		BAB124A71B8D5FF600806A86 /* MutilsPageControllers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MutilsPageControllers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAB124AB1B8D5FF600806A86 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		BAB124AD1B8D5FF600806A86 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -122,6 +125,8 @@
 				BAB124AE1B8D5FF600806A86 /* AppDelegate.m */,
 				BAB124B01B8D5FF600806A86 /* ViewController.h */,
 				BAB124B11B8D5FF600806A86 /* ViewController.m */,
+				BA9C72641B8DD98100936563 /* TempViewController.h */,
+				BA9C72651B8DD98100936563 /* TempViewController.m */,
 				BAB124B31B8D5FF600806A86 /* Main.storyboard */,
 				BAB124B91B8D5FF600806A86 /* Assets.xcassets */,
 				BAB124BB1B8D5FF600806A86 /* LaunchScreen.storyboard */,
@@ -290,6 +295,7 @@
 			files = (
 				BAB124B81B8D5FF600806A86 /* MutilsPageControllers.xcdatamodeld in Sources */,
 				BAB124B21B8D5FF600806A86 /* ViewController.m in Sources */,
+				BA9C72661B8DD98100936563 /* TempViewController.m in Sources */,
 				BAB124AF1B8D5FF600806A86 /* AppDelegate.m in Sources */,
 				BA9C72611B8D8E4500936563 /* MutilsPageControllers.m in Sources */,
 				BAB124AC1B8D5FF600806A86 /* main.m in Sources */,

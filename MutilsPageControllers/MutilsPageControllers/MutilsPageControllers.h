@@ -25,9 +25,9 @@
  *  初始化
  *
  *  @param frame  
- *  @param topBarHeight    请求头
- *  @param viewControllers 请求体
- *  @param parentController 请求方式 get/post(忽略大小写)
+ *  @param topBarHeight
+ *  @param viewControllers
+ *  @param parentController
  *
  *  @return
  */
