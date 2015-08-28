@@ -1,7 +1,7 @@
-Pod::Spec.new do |s
+Pod::Spec.new do |s|
   s.name         = "MutilsPageControllers"
   s.version      = "1.0.0"
-  s.summary      = "ViewController controlled by page style"
+  s.summary      = "controll viewcontroller by page"
 
   s.description  = <<-DESC
                    ViewController controlled by page style
